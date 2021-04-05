@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jitendra-Dash
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate machine learning and data science
+- 💞️ I’m looking to collaborate machine learning and data science work
 - 📫 How to reach me you can email at jdash862@gmail.com
 
 <!---
