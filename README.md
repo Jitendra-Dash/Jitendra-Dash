@@ -1,5 +1,5 @@
 # Hello and Welcome to My Github Repo
-- 👋 Hi, I’m @Jitendra-Dash , I am a Data Scientist
+- 👋 Hi, My name @Jitendra-Dash , I am a Data Scientist
 - 👀 I’m interested in machine learning and data science stuff 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate machine learning and data science work
@@ -8,7 +8,7 @@
 Projects That I have done :-  
 
 ## **1. [Network Intrusion Detection System](https://github.com/Jitendra-Dash/Network-Intrusion-detection-system)**
-[Detailed Medium Blog which is published on analytic vidhya Page](https://medium.com/analytics-vidhya/network-intrusion-detection-system-4bab3e5baccb) 
+[A detailed Explaination about this Case Study (A medium Blog on analytics vidhya Page)](https://medium.com/analytics-vidhya/network-intrusion-detection-system-4bab3e5baccb) 
 
 The intrusion detector learning task is to build a predictive model (i.e. a classifier) capable of distinguishing between bad connections, called intrusions or attacks, and good normal connections.  
 !![image](https://user-images.githubusercontent.com/46401460/121671368-176b9e00-cacc-11eb-8ff6-46b2a77d3969.png)
@@ -20,7 +20,7 @@ The intrusion detector learning task is to build a predictive model (i.e. a clas
  - Feature engineering and many more things
 
 ## **2 . [Tweet Sentiment Extraction](https://github.com/Jitendra-Dash/Extracting-Phrase-From-Sentence)**  
-[A detailed Explaination about this Case Study (A medium Blog on Analytic Vidhya Page)](https://medium.com/analytics-vidhya/extract-the-right-phrase-from-sentence-29aa5f8b9182)  
+[A detailed Explaination about this Case Study (A medium Blog on analytics vidhya Page)](https://medium.com/analytics-vidhya/extract-the-right-phrase-from-sentence-29aa5f8b9182)  
 This case study is about capturing the sentiment or meaning behind a tweet .  
 With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person’s, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description.  
 !![image](https://user-images.githubusercontent.com/46401460/121672873-f015d080-cacd-11eb-8e00-fb1260162e8c.png)
