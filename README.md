@@ -25,7 +25,12 @@ This case study is about capturing the sentiment or meaning behind a tweet .
 With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person’s, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description.  
 !![image](https://user-images.githubusercontent.com/46401460/121672873-f015d080-cacd-11eb-8e00-fb1260162e8c.png)
 
-
+### In This Case Study , i have done
+- A detailed EDA
+- LSTM
+- Attention
+- BERT (Roberta)
+- Post Analysis
 
 
 <!---
