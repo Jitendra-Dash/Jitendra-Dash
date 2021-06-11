@@ -27,7 +27,7 @@ With all of the tweets circulating every second it is hard to tell whether the s
 
 ### In This Case Study , i have done
 - A detailed EDA
-- Deep Learning Algorithm Like : LSTM Attention ,BERT
+- Deep Learning Algorithm Like : LSTM , Attention ,BERT
 - Post Analysis of the Result (here we will see where our prediction making mistake or where it giving us great prediction)
 
 
