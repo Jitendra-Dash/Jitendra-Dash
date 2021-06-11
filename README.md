@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate machine learning and data science work
 - 📫 How to reach me you can email at jdash862@gmail.com
 
-Projects That I have done :-
+Projects That I have done :-  
+
 **1. [Network Intrusion Detection System](https://github.com/Jitendra-Dash/Network-Intrusion-detection-system)**
 [Detailed Medium Blog](https://medium.com/analytics-vidhya/network-intrusion-detection-system-4bab3e5baccb) 
 !![image](https://user-images.githubusercontent.com/46401460/121671368-176b9e00-cacc-11eb-8ff6-46b2a77d3969.png)
