@@ -5,6 +5,35 @@
 - 💞️ I’m looking to collaborate machine learning and data science work
 - 📫 How to reach me you can email at jdash862@gmail.com
 
+
+## My skills
+
+* Natural language processing
+- Vectorization - TFIDF ,Count vectorizer , word2vec etc
+- Data cleaning and preprocessing 
+- Sentiment classification , sentiment extraction, NER , Question-answering
+
+* Machine learning
+- KNN
+- Niave Bayes
+- Logistic regression
+- Random Forest
+- GBDT
+- Decision Tree
+- Linear Regression
+
+* Deep learning
+- MLP
+- RNN
+- CNN
+- Encoder Decider
+- Attention
+- Bert
+
+* Exploratory Data Analysis
+
+* Model Deployment :- Flask and FastAPI 
+
 Projects That I have done :-  
 
 ## **1. [Network Intrusion Detection System](https://github.com/Jitendra-Dash/Network-Intrusion-detection-system)**
