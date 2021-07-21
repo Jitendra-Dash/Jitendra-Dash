@@ -60,6 +60,19 @@ With all of the tweets circulating every second it is hard to tell whether the s
 - Post Analysis of the Result (here we will see where our prediction making mistake or where it giving us great prediction)
 
 
+## **3 . [sentiment analysis | deploy using fast API ](https://github.com/Jitendra-Dash/Sentiment-classification-deployement-of-ML-model-using-FastAPI)**  
+[A detailed Explaination about this project (in my youtube channel)](https://www.youtube.com/watch?v=k_ngUNieJyg&t=6766s)
+
+- get the data
+- do some stats
+- clean and preprocess
+- convert to vectors
+- build model
+- save model
+- deploy using fastAPI
+
+
+
 <!---
 Jitendra-Dash/Jitendra-Dash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
