@@ -63,6 +63,8 @@ With all of the tweets circulating every second it is hard to tell whether the s
 ## **3 . [sentiment analysis | deploy using fast API ](https://github.com/Jitendra-Dash/Sentiment-classification-deployement-of-ML-model-using-FastAPI)**  
 [A detailed Explaination about this project (in my youtube channel)](https://www.youtube.com/watch?v=k_ngUNieJyg&t=6766s)
 
+![image](https://user-images.githubusercontent.com/46401460/126436586-ef3d1761-0940-409d-b5f6-3f7217c89710.png)
+
 - get the data
 - do some stats
 - clean and preprocess
