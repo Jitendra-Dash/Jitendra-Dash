@@ -1,8 +1,6 @@
 # Hello and Welcome to My Github Repo
-- 👋 Hi, My name @Jitendra-Dash , I am a Data Scientist
-- 👀 I’m interested in machine learning and data science stuff 
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate machine learning and data science work
+- 👋 Hi, My name @Jitendra-Dash , I am a Data Scientist / NLP engineer!
+- 👀 Interested in machine learning and data science stuff 
 - 📫 How to reach me you can email at jdash862@gmail.com
 
 
